@@ -36,4 +36,6 @@ export SPACE_ID="preferrably-your-personal-space-in-confluence"
 export PARENT_ID="the-page-id-you-want-to-upload"
 export CONFLUENCE_URL="https://your-org.atlassian.net/wiki/api/v2/pages"
 export AUTH_TOKEN="your-confluence-auth-token"
+
+foreman start confluence
 ```
